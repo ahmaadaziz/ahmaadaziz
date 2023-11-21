@@ -28,7 +28,7 @@
 
 <h2></h2>
 
-
+<img  align="right"  alt="GIF"  src="https://raw.githubusercontent.com/ahmaadaziz/ahmaadaziz/main/code.gif"  width="500"  height="320"  />
 
 - 😄 Pronounce me as `/eh.mɛt/`
 
