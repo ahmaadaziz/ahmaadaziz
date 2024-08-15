@@ -16,6 +16,12 @@
 
 <img  src="https://shields.io/badge/-e--mail-red?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=333"  />
 
+<a  href="https://www.ahmadaziz.me"  target="_blank">
+
+<img  src="https://shields.io/badge/-WEBSITE-2B579A?style=for-the-badge&logo=website&logoColor=fff&labelColor=333"  />
+
+</a>
+
 <a  href="https://github.com/ahmaadaziz?tab=repositories"  target="_blank">
 
 <img  src="https://shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=fff&labelColor=333"  />
